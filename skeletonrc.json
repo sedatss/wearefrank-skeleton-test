@@ -1,0 +1,14 @@
+{
+    "mappings": {
+        "wearefrank skeleton test": "",
+        "wearefrank skeleton test": "",
+        "skeleton test": ""
+    },
+    "ignoredFiles": [
+        "skeletonrc.json",
+        "skeleton.js"
+    ],
+    "ignoredFolders": [
+        ".git"
+    ]
+}
