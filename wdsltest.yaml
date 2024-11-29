@@ -8,4 +8,4 @@ spec:
   lifecycle: deprecated
   owner: foo
   definition:
-    $text: http://www.dneonline.com/calculator.asmx?WSDL=
+    $text: https://www.w3.org/2003/05/soap-envelope/
