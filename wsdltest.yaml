@@ -8,4 +8,4 @@ spec:
   lifecycle: deprecated
   owner: foo
   definition:
-    $text: http://www.dneonline.com/calculator.asmx?wsdl
+    $text: https://gist.githubusercontent.com/SorenPoulsen/ad7db25d2616f96a91849d77d01bb328/raw/db6b5735b8b0a87ccb506f564591758a7d3c21f1/test.wsdl
