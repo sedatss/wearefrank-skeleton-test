@@ -4,5 +4,7 @@ site_description: wearefrank-skeleton-test " documentation"
 nav:
   - Introduction: index.md
 
+theme: readthedocs
+
 plugins:
   - techdocs-core
