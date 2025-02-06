@@ -3,6 +3,7 @@ site_description: wearefrank-skeleton-test " documentation"
 
 nav:
   - Introduction: index.md
+  - FrankDoc: frankdoc.md
 
 theme: readthedocs
 
