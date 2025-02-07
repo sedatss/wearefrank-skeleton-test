@@ -10,12 +10,5 @@ folder (/docs) or replace the content in this file.
 
 Here is an example:
 
-<iframe width="672" height="378" src="https://www.youtube.com/embed/85TQEpNCaU0" title="YouTube video player" frameborder="0" allow="picture-in-picture" allowfullscreen></iframe>
 
-## Example 2
-
-<iframe width="672" height="378" src="https://knowhow.interpar.nl" title="Knowhow" frameborder="0" allowfullscreen></iframe>
-
-## Example 2
-
-<iframe width="672" height="378" src="https://frankdoc.frankframework.org/#/" title="Knowhow" frameborder="0" allowfullscreen></iframe>
+![Alt text](https://backstage.io/assets/images/architecture-recommended.drawio-b90a644e7ae6f63987a9e5c50efdcb40.svg "a title")
